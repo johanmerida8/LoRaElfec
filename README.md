@@ -1,4 +1,4 @@
-# lora_app
+## lora_app_project
 
 A new Flutter project.
 
