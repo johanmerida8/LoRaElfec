@@ -34,6 +34,9 @@ import 'package:lora_app/NavPages/BillingPage.dart';
 import 'package:http/http.dart' as http;
 import 'package:lora_app/mobile/home_page_mobile.dart';
 
+
+//Parte de Johan tarea de roles en cliente//
+
 class homePageAdminWeb extends StatefulWidget {
   final String nombre;
   /* final String apellido; */
@@ -45,10 +48,8 @@ class homePageAdminWeb extends StatefulWidget {
   _homePageAdminWebState createState() => _homePageAdminWebState();
 }
 
+
 class _homePageAdminWebState extends State<homePageAdminWeb> {
-
-
-  
   TextEditingController email = TextEditingController();
   TextEditingController password = TextEditingController();
 
