@@ -5,11 +5,15 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:lora_app/CategoriaCRUD/UpdateCategoria.dart';
 
+
+//Parte de Yamil tarea de categoria de ver datos//
+
 class viewDataCategoriaPage extends StatefulWidget {
 
   @override
   _viewDataCategoriaPageState createState() => _viewDataCategoriaPageState();
 }
+
 
 class _viewDataCategoriaPageState extends State<viewDataCategoriaPage> {
 
