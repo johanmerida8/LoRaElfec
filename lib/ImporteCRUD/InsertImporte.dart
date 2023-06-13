@@ -4,6 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:lora_app/ImporteCRUD/view_data_importe.dart';
 
+//Parte de Yamil tarea de importe de insercion de datos//
+
 class RowData{
   String descripcion;
   String monto;
