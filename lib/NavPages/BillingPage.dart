@@ -4,6 +4,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
+//Parte de Isaac, Yamil, Johan, facturacion para cliente//
+
 class InvoicePage extends StatelessWidget {
   const InvoicePage({super.key});
 
