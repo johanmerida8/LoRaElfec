@@ -8,6 +8,7 @@ import 'package:lora_app/UsuarioCRUD/ViewUser.dart';
 
 
 //Parte de Isaac del tarea de insercion de Sensor//
+//modificado
 
 class InsertUsuario extends StatefulWidget {
 
