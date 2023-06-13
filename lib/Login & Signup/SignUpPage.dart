@@ -6,6 +6,7 @@ import 'package:http/http.dart' as http;
 
 
 //Parte de Isaac tarea de registro de usuario//
+//modificado
 
 class SignUpPage extends StatefulWidget {
   
