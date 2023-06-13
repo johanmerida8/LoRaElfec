@@ -5,11 +5,14 @@ import 'package:lora_app/Login%20&%20Signup/LoginPage.dart';
 import 'package:http/http.dart' as http;
 
 
+//Parte de Isaac tarea de registro de usuario//
+
 class SignUpPage extends StatefulWidget {
   
   @override
   _SignUpPageState createState() => _SignUpPageState();
 }
+
 
 class _SignUpPageState extends State<SignUpPage>{
 

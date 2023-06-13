@@ -5,12 +5,17 @@ import 'package:flutter/material.dart';
 import 'package:lora_app/UsuarioCRUD/UpdateUser.dart';
 import 'package:http/http.dart' as http;
 
+
+//Parte de Isaac del tarea de ver datos de Sensor//
+
 class ViewUser extends StatefulWidget {
   const ViewUser({super.key});
 
   @override
   State<ViewUser> createState() => _ViewUserState();
 }
+
+//Parte de Isaac//
 
 class _ViewUserState extends State<ViewUser> {
 

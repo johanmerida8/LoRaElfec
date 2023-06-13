@@ -6,6 +6,9 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:lora_app/UsuarioCRUD/ViewUser.dart';
 
+
+//Parte de Isaac del tarea de insercion de Sensor//
+
 class InsertUsuario extends StatefulWidget {
 
   @override

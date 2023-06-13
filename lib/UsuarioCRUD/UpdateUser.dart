@@ -3,6 +3,10 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
+
+//Parte de Isaac del tarea de actualizacion de Sensor//
+
+
 // ignore: must_be_immutable
 class UpdateUser extends StatefulWidget {
   
@@ -22,6 +26,7 @@ class UpdateUser extends StatefulWidget {
   @override
   State<UpdateUser> createState() => _UpdateUserState();
 }
+
 
 class _UpdateUserState extends State<UpdateUser> {
 
