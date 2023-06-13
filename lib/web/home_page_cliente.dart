@@ -24,6 +24,8 @@ import 'package:lora_app/NavPages/HomePage.dart';
 import 'package:http/http.dart' as http;
 import 'package:lora_app/mobile/home_page_mobile.dart';
 
+//Parte de Johan tarea de roles en admin//
+
 class homePageClienteWeb extends StatefulWidget {
   
 
