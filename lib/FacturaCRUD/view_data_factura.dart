@@ -12,6 +12,8 @@ class viewDataFacturaPage extends StatefulWidget {
   _viewDataFacturaPageState createState() => _viewDataFacturaPageState(); 
 }
 
+//Parte de Johan tarea de factura de ver datos//
+
 class _viewDataFacturaPageState extends State<viewDataFacturaPage> {
 
   List facturadata = [];
