@@ -11,13 +11,14 @@ import 'package:lora_app/web/home_page_web.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 
-class LoginPage extends StatefulWidget {
+//Parte de Isaac y Yamil tarea del Login//
 
-  
+class LoginPage extends StatefulWidget {
   
   @override
   _LoginPageState createState() => _LoginPageState();
 }
+
 
 class _LoginPageState extends State<LoginPage> {
 
