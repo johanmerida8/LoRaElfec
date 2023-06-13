@@ -7,6 +7,7 @@ import 'package:http/http.dart' as http;
 
 
 //Parte de Isaac del tarea de ver datos de Sensor//
+//modificado
 
 class ViewUser extends StatefulWidget {
   const ViewUser({super.key});
