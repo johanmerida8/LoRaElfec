@@ -5,6 +5,9 @@ import 'package:http/http.dart' as http;
 import 'package:flutter/cupertino.dart';
 import 'package:lora_app/ImporteCRUD/UpdateImporte.dart';
 
+
+//Parte de Yamil tarea de importe de ver datos//
+
 class viewDataImportePage extends StatefulWidget {
   
   @override
