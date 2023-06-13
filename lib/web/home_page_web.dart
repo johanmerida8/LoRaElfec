@@ -31,7 +31,7 @@ import 'package:http/http.dart' as http;
 import 'package:lora_app/mobile/home_page_mobile.dart';
 
 
-
+//Parte de Johan tarea de la pagina principal usuario regular//
 
 class homePageWeb extends StatefulWidget {
   
