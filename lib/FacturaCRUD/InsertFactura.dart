@@ -9,12 +9,16 @@ import 'package:lora_app/FacturaCRUD/custom_input_field.dart';
 /* import 'package:lora_app/FacturaCRUD/totalLabel.dart'; */
 import 'package:lora_app/FacturaCRUD/view_data_factura.dart';
 
+
+//Parte de Johan tarea de factura de insercion//
+
 class InsertFacturaPage extends StatefulWidget {
   InsertFacturaPage({Key? key}) : super(key: key);
 
   @override
   _InsertFacturaPageState createState() => _InsertFacturaPageState();
 }
+
 
 class _InsertFacturaPageState extends State<InsertFacturaPage> {
   TextEditingController descripcion = TextEditingController();
