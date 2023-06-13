@@ -4,12 +4,16 @@ import 'package:flutter/material.dart';
 import 'package:lora_app/CategoriaCRUD/view_data_categoria.dart';
 import 'package:http/http.dart' as http;
 
+
+//Parte de Yamil tarea de categoria de insercion de datos//
+
 class InsertCategoriaPage extends StatefulWidget {
   
   
   @override
   _InsertCategoriaPageState createState() => _InsertCategoriaPageState();
 }
+
 
 class _InsertCategoriaPageState extends State<InsertCategoriaPage> {
   TextEditingController tipo = TextEditingController();
